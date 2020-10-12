@@ -1,0 +1,11 @@
+{
+  "name": "Serverless s3 pricing history",
+  "version": "1.0.0",
+  "description": "Tool to show users historical s3 pricing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathon Langel",
+  "license": "MIT"
+}
